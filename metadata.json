@@ -1,0 +1,6 @@
+{
+  "name": "Exam Hall & Seating Allocation System",
+  "description": "Enterprise-grade Exam Hall and Seating Allocation DBMS with automated allocation algorithms, role-based portals, live seating grid, report exports, and comprehensive SQL schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
